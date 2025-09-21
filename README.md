@@ -21,7 +21,7 @@ Sci-Hounds is a cross-platform career guidance app built with Flutter (frontend)
 ## 🔗 Backend Repository
 
 The backend is hosted separately and handles course data and student selections:  
-👉 [Sci-Hounds Backend](https://github.com/MadeshKK/Sci-Hounds.git)
+👉 [Sci-Hounds Backend](https://github.com/MadeshKK/ai-career-advisor.git)
 
 ---
 
