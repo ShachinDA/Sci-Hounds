@@ -1,21 +1,29 @@
-<<<<<<< HEAD
-# career_advisor_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Sci-Hounds
-Career Advisor App helps students explore personalized career paths based on their interests and academic stream. It offers a clean, intuitive interface with real-time course recommendations and emotional support.
->>>>>>> ed161ac385b92dfdbb3bbcaff227434928a1e52f
+
+**Career Advisor App** helps students explore personalized career paths based on their interests and academic stream. It offers a clean, intuitive interface with real-time course recommendations and emotional support.
+
+---
+
+## 🚀 Project Overview
+
+Sci-Hounds is a cross-platform career guidance app built with Flutter (frontend) and Flask (backend). It empowers students to make informed decisions after Class 12 by mapping their interests to relevant courses and career paths.
+
+---
+
+## 🧩 Tech Stack
+
+- **Frontend**: Flutter (Android, iOS, Web)
+- **Backend**: Flask (Python)
+- **Data Flow**: RESTful API integration using HTTP requests
+
+---
+
+## 🔗 Backend Repository
+
+The backend is hosted separately and handles course data and student selections:  
+👉 [Sci-Hounds Backend](https://github.com/MadeshKK/Sci-Hounds.git)
+
+---
+
+## 📦 Folder Structure
+
